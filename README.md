@@ -2,7 +2,7 @@
 
 This repository provides the code for generating the graphs and deriving the equations in the following paper:
 
-*Optimal response vigor and choice under non-stationary outcome values*
+**Optimal response vigor and choice under non-stationary outcome values.**
 Dezfouli, A., Balleine, B.W. & Nock, R. Psychon Bull Rev (2018). https://doi.org/10.3758/s13423-018-1500-3
 
 
