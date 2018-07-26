@@ -17,8 +17,8 @@ symbolic mathematics in Python using _sympy_ package. This file
 contains the relevant code.
 
 * ``roatational_solution.m`` Some of the symbolic mathematics
-were not possible to carry our in Python, and they were performed 
-using Matlab symbolic toolbox. These file contains the relevant
+were not possible to carry out in Python, and they were performed 
+using Matlab symbolic toolbox. This file contains the relevant
 code.
 
 
